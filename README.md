@@ -4,11 +4,11 @@ Percentage scores of the students are predicted based on the number of hours spe
 
 # Dependencies:
 Python<br>
-Pandas<br>
 Numpy<br>
+Pandas<br>
+Sklearn<br>
 Matplotlib<br>
 Seaborn<br>
-Sklearn<br>
 
 # Algorithms used :
 Linear Regression
